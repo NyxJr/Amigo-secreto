@@ -4,6 +4,8 @@
  </p>
  <p>El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.</p>
  
+ ![Proyecto](https://github.com/user-attachments/assets/f4447072-e54f-46e2-98bd-34806ad33788)
+
 <p align="center">  <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green"> </p>
 
 <h2  align="center"> :hammer: Funcionalidades del proyecto :hammer: </h2>
