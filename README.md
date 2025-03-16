@@ -14,3 +14,9 @@
 - `Validar entrada`: <p align="justify">Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.</p>
 -  `Visualizar la lista`: <p align="justify">Los nombres ingresados aparecerán en una lista debajo del campo de entrada.</p>
 -  `Sorteo aleatorio`: <p align="justify"> Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.</p>
+ <h2 align="center" > :computer: Autora :computer: </h2>
+ <p align="center">
+    <img src= https://avatars.githubusercontent.com/u/195908079?v=4 
+         alt="Avatar de la autora" 
+          width="200" height="200" >
+  </p>
